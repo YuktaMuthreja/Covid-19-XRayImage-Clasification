@@ -45,4 +45,4 @@ Plotted training and validation loss/accuracy.
 
 ## Result
 
-Received an accuracy score above 80%
+Received an accuracy score of 94%
